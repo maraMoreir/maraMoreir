@@ -11,7 +11,7 @@ Sejam bem vindos ao meu perfil do GitHub!
 </p>
 <hr/>
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> <p align="center">Atualmente estou fazendo projetos, e aprendendo com...</p>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> <p align="center"> ***Atualmente estou fazendo projetos, e aprendendo com*** :</p>
 <span title="HTML"><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML " /></span>
 <span title="CSS"><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS " /></span>
 <span title="SASS"><img height="32" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS " /></span>
@@ -25,8 +25,7 @@ Sejam bem vindos ao meu perfil do GitHub!
 <span title="React Native"><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=" Reagir nativo"/></span>
 <span title="Expo"><img height="32" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo " /></span>
 
-## Vamos nos conectar ?
-
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px"> Vamos nos conectar ?
 <p align="center">
 	<a href="https://github.com/maraMoreir" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/maramoreir/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
