@@ -19,13 +19,11 @@ Sejam bem vindos ao meu perfil do GitHub!
 <span title="TypeScript"><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript " /></span>
 <span title="ReactJS"><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS " /></span>
 <span title="NextJS"><img height="32" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt= "NextJS" /></span>
-<span title="Redux"><img height="32" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux " /></span>
-<span title="Jest"><img height="32" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest " /></span>
 <span title="NodeJS"><img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt= "NodeJS" /></span>
 <span title="ExpressJS"><img height="32" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt= "NodeJS" /></span>
 <span title="NestJS"><img height="32" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NodeJS " /></span>
 <span title="MongoDB"><img height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB " /></span>
-<span title="React Native"><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=" Reagir nativo" /></span>
+<span title="React Native"><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=" Reagir nativo"/></span>
 <span title="Expo"><img height="32" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo " /></span>
 
 ## Vamos nos conectar ?
