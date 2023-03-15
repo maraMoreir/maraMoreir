@@ -22,6 +22,7 @@ Sejam bem vindos ao meu perfil do GitHub!
 <span title="NodeJS"><img height="32" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt= "NodeJS" /></span>
 <span title="ExpressJS"><img height="32" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt= "NodeJS" /></span>
 <span title="MongoDB"><img height="32" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB " /></span>
+<span title="PostgreSQL"><img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span>
 <span title="React Native"><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=" Reagir nativo"/></span>
 <span title="Expo"><img height="32" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo " /></span>
 
