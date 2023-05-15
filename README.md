@@ -24,6 +24,7 @@ Sejam bem vindos ao meu perfil do GitHub!
 <span title="PostgreSQL"><img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span>
 <span title="React Native"><img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=" Reagir nativo"/></span>
 <span title="Expo"><img height="32" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo " /></span>
+<span title="C#"><img height="32" src="https://github.com/maraMoreir/maraMoreir/assets/127678655/411ed9b9-ef91-4ba6-bf23-fa8808aaeabf" alt="C# " /></span>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px"> Vamos nos conectar ?
 <p align="center">
