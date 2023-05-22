@@ -6,7 +6,7 @@ Sejam bem vindos ao meu perfil do GitHub!
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web;+Development+Student&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
