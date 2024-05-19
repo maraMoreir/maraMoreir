@@ -9,15 +9,16 @@
 
 </p>
 
-```typescript
+```javascript
 const aboutMe = {
-  pronouns: "She" | "From them",
+  pronouns: ["She", "From them"],
   code: ["C#", "JavaScript", "TypeScript"],
   tools: ["React", "ASP.NET Core", "Entity Framework Core", "Styled-Components"],
   architecture: ["Clean Architecture", "Component Composition Design"],
   currentFocus: "Deepen my knowledge in clean architecture and component composition design",
   funFact: "There are two ways to write error-free programs; only the third works"
 }
+
 ```
 
 <p align="left">
