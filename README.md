@@ -1,11 +1,11 @@
  
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&left=true&width=380"></a>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" height="35px">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer&left=true&width=300"></a>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
   <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 </p>
-<h4> Olá, sou Silmara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h4> Olá Devs <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 </p>
 
@@ -28,8 +28,7 @@ const aboutMe = {
     <img alt="Website" src="https://img.shields.io/website?url=https://my-portifolio-zcea-d635h0g40-maramoreirs-projects.vercel.app/">
   </a>
 </p>
-
-
-
 <br>
 
+---
+ ### ⭐️ Obrigada por visitar meu perfil!
