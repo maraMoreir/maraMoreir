@@ -11,7 +11,6 @@
 
 ```javascript
 const aboutMe = {
-  pronouns: ["She", "From them"].join(" | "),
   code: ["C#", "JavaScript", "TypeScript"],
   tools: ["React", "ASP.NET Core", "Entity Framework Core", "Styled-Components"],
   architecture: ["Clean Architecture", "Component Composition Design"],
