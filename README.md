@@ -5,7 +5,7 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
   <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 </p>
-<h4> Olá Devs <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h4> Hi Devs <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 </p>
 
@@ -88,4 +88,4 @@ const aboutMe = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maraMoreir&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
- ### ⭐️ Obrigada por visitar meu perfil!
+ ### ⭐️ Thank you for visiting my profile! 
