@@ -11,9 +11,9 @@
 
 ```javascript
 const aboutMe = {
-  code: ["C#", "JavaScript", "TypeScript"],
+  code: ["C#", "TypeScript", "ABAP"],
   tools: ["React", "ASP.NET Core", "Entity Framework Core", "Styled-Components"],
-  architecture: ["Clean Architecture", "Component Composition Design"],
+  architecture: ["Clean Architecture"],
   currentFocus: "Deepen my knowledge in clean architecture and component composition design",
   funFact: "There are two ways to write error-free programs; only the third works"
 }
