@@ -11,8 +11,8 @@
 
 ```javascript
 const aboutMe = {
-  code: ["C#", "TypeScript", "ABAP"],
-  tools: ["React", "ASP.NET Core", "Entity Framework Core", "Styled-Components"],
+  code: ["C#", "TypeScript"],
+  tools: ["React", ".NET"],
   architecture: ["Clean Architecture"],
   currentFocus: "Deepen my knowledge in clean architecture and SOLID",
   funFact: "There are two ways to write error-free programs; only the third works"
