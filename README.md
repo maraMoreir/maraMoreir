@@ -29,7 +29,7 @@ var aboutMe = new AboutMe
 {
     Experience = "Over 4 years building systems",
     Code = new List<string> { "C#", "TypeScript", "SQL" },
-    Tools = new List<string> { "React", ".NET", "Docker", "RabbitMQ", "SQL Server", SAP },
+    Tools = new List<string> { "React", ".NET", "Docker", "RabbitMQ", "SQL Server" },
     Architecture = new List<string> { "Clean Architecture", "SOLID", "DDD" },
     CurrentFocus = "Resilient, distributed systems with high scalability and maintainability",
     FunFact = "There are two ways to write error-free programs; only the third works."
