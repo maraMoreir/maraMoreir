@@ -40,7 +40,7 @@ public sealed class EngineerProfile
     public IReadOnlyList<string> Stack => new[]
     {
         ".NET", "ASP.NET Core", "RabbitMQ", "Docker",
-        "PostgreSQL", "SQL Server", "Redis"
+        "PostgreSQL", "SQL Server"
     };
 
     public IReadOnlyList<string> Architecture => new[]
