@@ -25,7 +25,7 @@ using System.Collections.Generic;
 public sealed class Profile
 {
     public string Name     => "Silmara M.";
-    public string Role     => "Backend Engineer";
+    public string Role     => "Backend";
     public string Mindset  => "Systems Thinking · Engineering Longevity";
 
     public IReadOnlyList<string> CoreExpertise => new[]
