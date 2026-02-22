@@ -54,7 +54,7 @@ public sealed class Profile
     };
 
     public string Mission =>
-        "Engineering resilient, observable and scalable systems designed for long-term evolution.";
+        "Develop resilient, observable, and scalable systems designed for long-term evolution."
 
     public string Principle =>
         "Reliability is not added later - it is designed from the beginning.";
