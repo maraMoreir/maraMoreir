@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/maraMoreir">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Backend+Engineer;Distributed+Systems+Architect;Building+Resilient+Software;Engineering+Scalable+Systems;Designing+Systems+That+Survive+Reality"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Backend;Distributed+Systems+Architect;Building+Resilient+Software;Engineering+Scalable+Systems;Designing+Systems+That+Survive+Reality"
       alt="Typing SVG"
     />
   </a>
