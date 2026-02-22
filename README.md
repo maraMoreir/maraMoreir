@@ -22,7 +22,7 @@
 ```csharp
 using System.Collections.Generic;
 
-public sealed class EngineerProfile
+public sealed class Profile
 {
     public string Name     => "Silmara M.";
     public string Role     => "Backend Engineer";
