@@ -137,7 +137,6 @@ public sealed class Profile
   <img src="https://img.shields.io/badge/SAP%20Business%20One-1D4ED8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ERP%20Integration-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Fiscal%20Systems-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NFe%20%7C%20DFe%20%7C%20NFSe-E11D48?style=for-the-badge"/>
 </p>
 
 <p align="center">
