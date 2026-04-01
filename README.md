@@ -31,7 +31,7 @@ public sealed class Profile
     public IReadOnlyList<string> CoreExpertise => new[]
     {
         "Distributed Systems",
-        "Backend Architecture",
+        "Backend Design",
         "Enterprise Integrations",
         "Event-Driven Systems",
         "Legacy Modernization"
