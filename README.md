@@ -39,7 +39,7 @@ public sealed class Profile
     public IReadOnlyList<string> Stack => new[]
     {
         ".NET", "ASP.NET Core", "RabbitMQ", "Docker",
-        "PostgreSQL", "SQL Server"
+        "MySQL", "SQL Server"
     };
 
     public IReadOnlyList<string> Architecture => new[]
@@ -89,14 +89,14 @@ public sealed class Profile
 ## ⬡ Data & Persistence Layer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-DC2626?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-E11D48?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Modeling-4F46E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge"/>
 </p>
 
-## ⬡ Architecture & Engineering Practices
+## ⬡ Systems Design Practices
 
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Architecture-3B82F6?style=for-the-badge"/>
@@ -108,7 +108,7 @@ public sealed class Profile
   <img src="https://img.shields.io/badge/Testability-22C55E?style=for-the-badge"/>
 </p>
 
-## ⬡ DevOps & Operational Engineering
+## ⬡ DevOps & Operational
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
