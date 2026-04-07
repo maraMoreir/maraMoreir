@@ -26,7 +26,7 @@ public sealed class Profile
 {
     public string Name     => "Silmara M.";
     public string Role     => "Backend";
-    public string Mindset  => "Systems Thinking · Engineering Longevity";
+    public string Mindset  => "Systems Thinking · Desing Longevity";
 
     public IReadOnlyList<string> CoreExpertise => new[]
     {
