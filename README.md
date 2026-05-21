@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/maraMoreir">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Backend;Distributed+Systems+Architect;Building+Resilient+Software;Engineering+Scalable+Systems;Designing+Systems+That+Survive+Reality"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Backend;Distributed+Systems;Building+Resilient+Software;Engineering+Scalable+Systems;Designing+Systems+That+Survive+Reality"
       alt="Typing SVG"
     />
   </a>
@@ -24,39 +24,52 @@ using System.Collections.Generic;
 
 public sealed class Profile
 {
-    public string Name     => "Silmara M.";
-    public string Role     => "Backend";
-    public string Mindset  => "Systems Thinking · Desing Longevity";
-
-    public IReadOnlyList<string> CoreExpertise => new[]
-    {
+    private static readonly IReadOnlyList<string> _coreExpertise =
+    [
         "Distributed Systems",
-        "Design System",
         "Enterprise Integrations",
-        "Legacy Modernization"
-    };
+        "Legacy Modernization",
+        "Observability"
+    ];
 
-    public IReadOnlyList<string> Stack => new[]
-    {
-        ".NET", "ASP.NET Core", "RabbitMQ", "Docker",
-        "MySQL", "SQL Server"
-    };
+    private static readonly IReadOnlyList<string> _stack =
+    [
+        ".NET",
+        "ASP.NET Core",
+        "RabbitMQ",
+        "Docker",
+        "MySQL",
+        "SQL Server"
+    ];
 
-    public IReadOnlyList<string> Architecture => new[]
-    {
+    private static readonly IReadOnlyList<string> _systemDesign =
+    [
         "Clean Architecture",
         "DDD",
         "CQRS",
         "SOLID",
         "Modular Monolith",
         "Microservices"
-    };
+    ];
+
+    public string Name => "Silmara M.";
+
+    public string Role => "Backend Engineer";
+
+    public string Mindset =>
+        "Systems Thinking · Long-Term Software Design";
+
+    public IReadOnlyList<string> CoreExpertise => _coreExpertise;
+
+    public IReadOnlyList<string> Stack => _stack;
+
+    public IReadOnlyList<string> SystemDesign => _systemDesign;
 
     public string Mission =>
-        "Develop resilient, observable, and scalable systems designed for long-term evolution."
+        "Build resilient, observable, and scalable systems designed for long-term evolution.";
 
     public string Principle =>
-        "Reliability is not added later - it is designed from the beginning.";
+        "Reliability is designed from the beginning.";
 }
 ```
 
